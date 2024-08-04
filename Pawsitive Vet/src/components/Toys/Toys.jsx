@@ -10,7 +10,7 @@ function Toys() {
       <div className="container m-auto">
         <div className="py-11 ">
           <h2 className="text-center text-custom_green text-3xl font-bold mb-3">
-            Pet Toys
+            Pet Toy
           </h2>
           {/* firstrow */}
           <div className="flex gap-10 items-center justify-center">
